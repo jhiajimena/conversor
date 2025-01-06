@@ -11,8 +11,8 @@ El Conversor de Moneda es una aplicación de consola que facilita la conversión
 ## Funcionalidades
 
 - Conversión de:
-  - Dólar a Peso argentino
-  - Peso argentino a Dólar
+  - Dólar a Nuevo soles
+  - Nuevo soles a Dólar
   - Dólar a Real brasileño
   - Real brasileño a Dólar
   - Dólar a Peso colombiano
